@@ -10,6 +10,7 @@
 
 - composer install
 - cp .env.example .env
+- php artisan key:generate
 
 ##### Crie uma base de dados no mysql, exemplo: projeto
 
